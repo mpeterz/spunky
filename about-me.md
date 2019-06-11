@@ -2,8 +2,8 @@
 
 ![Picture of me]()
 
-Hi, I'm Charlene Bernard. I'm a ________ at *__________*.
+Hi, I'm Meg Peters. I'm a Designer at *USDS*.
 
 - **Past Companies and Organizations:**
 - **Hobbies:**
-- **Favorite Website:** []()
+- **Favorite Website:** [u.s. digital service website](https://www.usds.gov/)
